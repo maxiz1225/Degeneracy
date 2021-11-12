@@ -1,6 +1,6 @@
 {
     "port": 8443,
-    "ssl": false,
+    "ssl": true,
     "title": "Degeneracy",
     "prefix": "/go/",
     "codec": "xor",
