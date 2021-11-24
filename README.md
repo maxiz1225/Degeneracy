@@ -6,7 +6,7 @@ Degeneracy is a functional and easy to use proxy site made to combat web filters
 <a href="https://glitch.com/edit/#!/import/github/Degenerate0001/Degeneracy"><img height="30px" src="https://raw.githubusercontent.com/FogNetwork/Tsunami/main/deploy/glitch2.svg"><img></a>
 
 ## Notice
-This is a Public Demo for Degeneracy. This means that only Corrosion works for it. If you would like to implement PyDodge and/or Womginx, setup Womginx and point it to a `w` subdomain, and/or setup PyDodge and point it to a `docs` subdomain. Setup for these can be found here: <a href="https://github.com/BinBashBanana/PyDodge>PyDodge">PyDodge</a> <a href="https://github.com/binary-person/womginx">Womginx</a>
+This is a Public Demo for Degeneracy. This means that only Corrosion works for it by default. If you would like to implement PyDodge and/or Womginx, please do the following. Setup Womginx and point it to a `w` subdomain if you would like to implement Womginx. If you would like to implement PyDodge, setup PyDodge and point it to a `docs` subdomain. Setup for Womginx and PyDodge can be found here: <a href="https://github.com/BinBashBanana/PyDodge">PyDodge</a> <a href="https://github.com/binary-person/womginx">Womginx</a>
 
 # Setup
 
