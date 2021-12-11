@@ -5,6 +5,9 @@ Degeneracy is a functional and easy to use proxy site made to combat web filters
 <a href="https://repl.it/github/Degenerate0001/Degeneracy"><img height="30px" src="https://raw.githubusercontent.com/FogNetwork/Tsunami/main/deploy/replit2.svg"><img></a>
 <a href="https://glitch.com/edit/#!/import/github/Degenerate0001/Degeneracy"><img height="30px" src="https://raw.githubusercontent.com/FogNetwork/Tsunami/main/deploy/glitch2.svg"><img></a>
 
+## Notice
+This is a Public Demo for Degeneracy. This means that only Corrosion works for it by default. If you would like to implement PyDodge and/or Womginx, please do the following. Setup Womginx and point it to a `w` subdomain if you would like to implement Womginx. If you would like to implement PyDodge, setup PyDodge and point it to a `docs` subdomain. Setup for Womginx and PyDodge can be found here: <a href="https://github.com/BinBashBanana/PyDodge">PyDodge</a> <a href="https://github.com/binary-person/womginx">Womginx</a>
+
 # Setup
 
 ```sh
@@ -109,7 +112,3 @@ systemctl restart nginx
 ```
 
 Now check and see if your server is running! If it is, then good job, if it isn't, sorry D:
-
-# To Do
-
-* Fix Tab Cloaking
